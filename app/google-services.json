@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642764836285",
+    "firebase_url": "https://monitorbanjir.firebaseio.com",
+    "project_id": "monitorbanjir",
+    "storage_bucket": "monitorbanjir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642764836285:android:a09867ed7af9527d",
+        "android_client_info": {
+          "package_name": "com.example.monitorbanjir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642764836285-t0lg2gjom5m63ckm7d0vlo6939veemdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monitorbanjir",
+            "certificate_hash": "c622cf8f75fd9b6cb8cfac8087c45903f79f6bd7"
+          }
+        },
+        {
+          "client_id": "642764836285-949u9epnofng2j2qtui1bqlnnbp3guk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0Q-R43zrtV5_a6APRlCr0SuolqjZj1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642764836285-949u9epnofng2j2qtui1bqlnnbp3guk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
